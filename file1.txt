@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Mukhamedov Daniel Albertovich / PI-430B
 commit1
 commit1245251
+=======
+Mukhamedov D.A. / PI-430B
+Mukhamedov D.A. / Prikladnaya Informatika 430B
+>>>>>>> bugfix/TASK-3321
